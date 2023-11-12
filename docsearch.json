@@ -1,0 +1,33 @@
+{
+	"rateLimit": 8,
+	"maxDepth": 10,
+	"startUrls": [
+		"https://paulapplegate.com"
+	],
+	"renderJavaScript": false,
+	"sitemaps": [],
+	"ignoreCanonicalTo": false,
+	"discoveryPatterns": [
+		"https://paulapplegate.com/**"
+	],
+	"schedule": "at 7:31 PM on Wednesday",
+	"actions": [
+		{
+			"indexName": "11ty-excellent-paulapplegate",
+			"index_name": "11ty-excellent-paulapplegate",
+			"pathsToMatch": [
+				"https://paulapplegate.com/**"
+			]
+		}
+	],
+	"initialIndexSettings": {
+		"paulapple": {
+			"attributesForFaceting": [
+				"type",
+				"lang"
+			]
+		}
+	},
+	"appId": "GBMHFQHG52",
+	"apiKey": "ee04a6c6e0c1f57d51efa984579e7c46"
+}
