@@ -9,8 +9,8 @@ layout: page
 <div id="docsearch"></div>
 <script type="text/javascript">
   docsearch({
-  appId:'GBMHFQHG52',
-  apiKey:'ee04a6c6e0c1f57d51efa984579e7c46',
+  appId:'JXWFB0GQOU',
+  apiKey:'080571697c5eb521de39acee8ec8c06b',
   indexName:'11ty-excellent-paulapplegate',
   index_name:'11ty-excellent-paulapplegate',
   container:'#docsearch',
